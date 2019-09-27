@@ -48,7 +48,7 @@ class PetTableViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print(petData[indexPath.row].name ?? default value  )
+        print(petData[indexPath.row].name as Any)
     }
 
    
