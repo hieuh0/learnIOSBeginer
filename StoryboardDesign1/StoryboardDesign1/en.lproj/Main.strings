@@ -1,0 +1,12 @@
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "CAu-NW-2UV"; */
+"CAu-NW-2UV.title" = "Item 2";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "eqO-Av-Dn6"; */
+"eqO-Av-Dn6.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "f1j-11-StE"; */
+"f1j-11-StE.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "k81-OF-ucG"; */
+"k81-OF-ucG.title" = "Item";
